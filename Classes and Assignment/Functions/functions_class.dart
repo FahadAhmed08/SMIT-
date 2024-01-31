@@ -8,5 +8,6 @@ table(int Number) {
   }
 }
 // null safety 
-// types of function
+// types of function 1:  void , 2: return
+
 // ternory operators
